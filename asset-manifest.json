@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shahramgh/shahramProjectReact/static/css/main.f8181f5e.css",
+    "main.js": "/shahramgh/shahramProjectReact/static/js/main.c4bb72bc.js",
+    "static/js/453.172ff34a.chunk.js": "/shahramgh/shahramProjectReact/static/js/453.172ff34a.chunk.js",
+    "static/media/portrait.jpg": "/shahramgh/shahramProjectReact/static/media/portrait.33399129593e2f8a9343.jpg",
+    "static/media/logo-background.jpg": "/shahramgh/shahramProjectReact/static/media/logo-background.fba0388569a724e41a33.jpg",
+    "static/media/setuputic-20241120-0008.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0008.ebd4315a921e03d3fbb0.jpg",
+    "static/media/setuputic-20241120-0005.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0005.aa45bd004e1ba8291ac0.jpg",
+    "static/media/setuputic-20241120-0007.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0007.d2a0ba7fb1adf5c060cf.jpg",
+    "static/media/setuputic-20241120-0001.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0001.8a023754fe0428838b29.jpg",
+    "static/media/setuputic-20241120-0003.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0003.60f3a950d7afe209611d.jpg",
+    "static/media/setuputic-20241120-0006.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0006.731d32acea3dbbba2b65.jpg",
+    "static/media/setuputic-20241120-0002.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0002.6673466863fa51b772b4.jpg",
+    "static/media/setuputic-20241120-0004.jpg": "/shahramgh/shahramProjectReact/static/media/setuputic-20241120-0004.7f50aaf59ceb87e87928.jpg",
+    "static/media/logo.svg": "/shahramgh/shahramProjectReact/static/media/logo.e037dfce4f7a39b795a0ab01f808d45d.svg",
+    "index.html": "/shahramgh/shahramProjectReact/index.html",
+    "main.f8181f5e.css.map": "/shahramgh/shahramProjectReact/static/css/main.f8181f5e.css.map",
+    "main.c4bb72bc.js.map": "/shahramgh/shahramProjectReact/static/js/main.c4bb72bc.js.map",
+    "453.172ff34a.chunk.js.map": "/shahramgh/shahramProjectReact/static/js/453.172ff34a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8181f5e.css",
+    "static/js/main.c4bb72bc.js"
+  ]
+}
